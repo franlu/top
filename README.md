@@ -17,3 +17,7 @@ Recursos y contenidos
 
 ### Varios
 
+* [Dev Community](https://www.dev.to)
+
+
+
