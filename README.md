@@ -19,6 +19,7 @@ Recursos y contenidos
 ### Varios
 
 * [Dev Community](https://www.dev.to)
+* [Generador foto perfil futurista](https://drawanyone.com/)
 
 
 
