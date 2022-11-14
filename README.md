@@ -9,6 +9,13 @@ Recursos y contenidos
 
 * [PDFs Programación](https://goalkicker.com/)
 
+### Enlaces CSS
+
+* [Colores](https://neumorphism.io/#e0e0e0)
+* [Colores](https://cssgradient.io/)
+* [Colores](https://coolors.co/)
+* [Bordes](https://9elements.github.io/fancy-border-radius/)
+
 ### Git
 
 * [Github-Ranking](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-stars.md)
