@@ -11,10 +11,10 @@ Recursos y contenidos
 
 ### Enlaces CSS
 
-* [Colores](https://neumorphism.io/#e0e0e0)
-* [Colores](https://cssgradient.io/)
 * [Colores](https://coolors.co/)
-* [Bordes](https://9elements.github.io/fancy-border-radius/)
+* [CSS Gradient](https://cssgradient.io/)
+* [Generate Soft-UI](https://neumorphism.io/#e0e0e0)
+* [Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/)
 
 ### Git
 
