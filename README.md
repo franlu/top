@@ -9,7 +9,7 @@ Recursos y contenidos
 
 * [PDFs Programación](https://goalkicker.com/)
 
-### Enlaces CSS
+### CSS
 
 * [Colores](https://coolors.co/)
 * [CSS Gradient](https://cssgradient.io/)
