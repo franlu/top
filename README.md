@@ -9,6 +9,10 @@ Recursos y contenidos
 
 * [PDFs Programación](https://goalkicker.com/)
 
+### HTML
+
+* [HTML Tag Memory Test](https://codepen.io/plfstr/full/zYqQeRw)
+
 ### CSS
 
 * [Colores](https://coolors.co/)
