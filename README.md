@@ -15,6 +15,7 @@ Recursos y contenidos
 
 ### CSS
 
+* [Animacion con CSS](https://animate.style/)
 * [Colores](https://coolors.co/)
 * [CSS Gradient](https://cssgradient.io/)
 * [Generate Soft-UI](https://neumorphism.io/#e0e0e0)
