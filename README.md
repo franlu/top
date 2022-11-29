@@ -15,6 +15,7 @@ Recursos y contenidos
 
 ### CSS
 
+* [CSS Generator](https://css-generator.netlify.app/)
 * [Animacion de texto](https://animate.style/)
 * [Colores](https://coolors.co/)
 * [CSS Gradient](https://cssgradient.io/)
